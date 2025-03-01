@@ -1,0 +1,22 @@
+{
+  "name": "adi-personal-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adiwadaskar/adi-personal-website.git"
+  },
+  "author": "Adi Wadaskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adiwadaskar/adi-personal-website/issues"
+  },
+  "homepage": "https://github.com/adiwadaskar/adi-personal-website#readme",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
