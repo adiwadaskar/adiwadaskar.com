@@ -4,7 +4,7 @@ import './Links.css'
 const Links = () => {
   return (
     <div className="links">
-      <a className="link" href="mailto:qyqomgxp6@mozmail.com">
+      <a className="link" href="mailto:hello@adiwadaskar.com">
         <Mail color="black" size={30} strokeWidth={1.5}/>
       </a>
       <a className="link" href="https://www.linkedin.com/in/adiwadaskar" target="_blank">
